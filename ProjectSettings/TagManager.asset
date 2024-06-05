@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Room1_Vacant
+  - Customer
+  - ReadyToGo
+  - GameManager
+  - Room2_Vacant
+  - Room3_Vacant
+  - Room4_Vacant
+  - Coin
+  - TriggerStop
+  - Customer_AI
+  - Slider
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - NotWalkable
+  - Water
+  - UI
+  - Player
+  - WayPoints
+  - Ground
+  - Player_Blocked
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
